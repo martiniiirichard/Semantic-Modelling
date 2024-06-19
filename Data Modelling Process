@@ -1,0 +1,7 @@
+1) Model first
+  This means decide what fact tables will be made of and what dimension table will be made of. 
+  How will these tables be linked?
+  What will be the grain?
+ What fields do you keep?
+ What is the logic for laying out complex calculations?
+ Draw.io is an optional tool to help with above.
