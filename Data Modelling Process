@@ -5,3 +5,28 @@
  What fields do you keep?
  What is the logic for laying out complex calculations?
  Draw.io is an optional tool to help with above.
+
+2) Insights over design
+ Tie key KPIS to useful information. Maybe look at threshold comparisons.
+
+3) ETL
+  Create Staging queries
+  Cleaning queries
+
+4) check for query folding
+
+5) Folders and notes on queries
+  Write some notes on fact tables to explain calculations and grain. Notes are seen in power BI
+
+6) Rename Columns to be intuitive
+
+7) Learn to write simple dax
+ If you see complex dax cropping up go back to modeling.
+ Be explicit in documenting dax for later reminders.
+
+8) Use Model Views
+
+9) Visualizations-design should be surrounding insights not the other way around. 
+ CRAP principle-Contrast, repitions, alignment, proximity
+ https://www.youtube.com/redirect?        event=video_description&redir_token=QUFFLUhqbkIyMElnY3FZY3NDQnFsV0ZYeUpCbm5UclRIUXxBQ3Jtc0tsbmUyU25CMWNCUERPRDhuaHpUTkxWbE5JZzZDZk1uaG41Vmt5bnlfSDNhTWdnUGc3UXkxbnloTkVUbUwzVVk0SHFsM3h5bjJWQ3pBNHA2UEZPRU9tV2xrdzVjMW04Mmp0OUdRa2JaY05vRjlKUDRmQQ&q=https%3A%2F%2Flewisu.edu%2Fwritingcenter%2Fpdf%2Fcrap-resource-revised-pub.pdf&v=rELf56n2evc
+ use alignment
